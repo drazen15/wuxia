@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>一个人的江湖</title>
+  <style>
+    body {
+      max-width: 720px;
+      margin: 60px auto;
+      padding: 0 20px;
+      font-family: system-ui, sans-serif;
+      line-height: 1.8;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <article>
+    <h1>开始江湖</h1>
+    <p>2026 年 11 月 3 日</p>
+
+    <p>寒江孤影，江湖故人</p>
+    <p>相逢何必曾相识</p>
+  </article>
+</body>
+</html>
